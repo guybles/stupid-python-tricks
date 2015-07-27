@@ -31,6 +31,7 @@ TRUE_STRINGS = [
     'sim',  # Portuguese
     'sea',  # Irish
     'jes',  # Esperanto
+    'yarp', # West Country, BDM
     u'نعم'.lower(),  # Arabic
 ]
 FALSE_STRINGS = [
@@ -39,6 +40,7 @@ FALSE_STRINGS = [
     'nein',  # German
     'nej',   # Danish
     'nee',   # Dutch
+    'narp',  # West Country, BDM
     u'لأ'.lower(),     # Arabic
 ]
 HAPPY_STRINGS = [
